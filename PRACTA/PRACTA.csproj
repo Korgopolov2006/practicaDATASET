@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PRACTA</RootNamespace>
+    <AssemblyName>PRACTA</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="AdminWindow1.xaml.cs">
+      <DependentUpon>AdminWindow1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="animals.xaml.cs">
+      <DependentUpon>animals.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="animalsUSER.xaml.cs">
+      <DependentUpon>animalsUSER.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Animals_Categoriesss.xaml.cs">
+      <DependentUpon>Animals_Categoriesss.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="aquariumsss.xaml.cs">
+      <DependentUpon>aquariumsss.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="aquariumsssUSER.xaml.cs">
+      <DependentUpon>aquariumsssUSER.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="collarsss.xaml.cs">
+      <DependentUpon>collarsss.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="collarsssUSER.xaml.cs">
+      <DependentUpon>collarsssUSER.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="customer.xaml.cs">
+      <DependentUpon>customer.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Employees.xaml.cs">
+      <DependentUpon>Employees.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="fod.xaml.cs">
+      <DependentUpon>fod.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="fodUSER.xaml.cs">
+      <DependentUpon>fodUSER.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Food_Categoriesss.xaml.cs">
+      <DependentUpon>Food_Categoriesss.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ordersss.xaml.cs">
+      <DependentUpon>ordersss.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Reviewsss.xaml.cs">
+      <DependentUpon>Reviewsss.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ReviewsssUSER.xaml.cs">
+      <DependentUpon>ReviewsssUSER.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Rolesss.xaml.cs">
+      <DependentUpon>Rolesss.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Tools1.xaml.cs">
+      <DependentUpon>Tools1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Tools2.xaml.cs">
+      <DependentUpon>Tools2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="toysss.xaml.cs">
+      <DependentUpon>toysss.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="toysssUSER.xaml.cs">
+      <DependentUpon>toysssUSER.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserWindow.xaml.cs">
+      <DependentUpon>UserWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ZooMagazinDataSet1.cs">
+      <DependentUpon>ZooMagazinDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ZooMagazinDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ZooMagazinDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Page Include="AdminWindow1.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="animals.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="animalsUSER.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Animals_Categoriesss.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="aquariumsss.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="aquariumsssUSER.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="collarsss.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="collarsssUSER.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="customer.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Employees.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="fod.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="fodUSER.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Food_Categoriesss.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="ordersss.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Reviewsss.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ReviewsssUSER.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Rolesss.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Tools1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Tools2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="toysss.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="toysssUSER.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="ZooMagazinDataSet1.xsc">
+      <DependentUpon>ZooMagazinDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="ZooMagazinDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ZooMagazinDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ZooMagazinDataSet1.xss">
+      <DependentUpon>ZooMagazinDataSet1.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

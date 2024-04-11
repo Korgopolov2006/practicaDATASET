@@ -1,0 +1,790 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1\\source\\repos\\PRACTA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|C:\\Users\\1\\source\\repos\\PRACTA\\practa\\reviewsssuser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\reviewsssuser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|C:\\Users\\1\\source\\repos\\PRACTA\\practa\\reviewsssuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\reviewsssuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|C:\\Users\\1\\source\\repos\\PRACTA\\practa\\toysssuser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\toysssuser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|C:\\Users\\1\\source\\repos\\PRACTA\\practa\\toysssuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\toysssuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|C:\\Users\\1\\source\\repos\\PRACTA\\practa\\userwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\userwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|C:\\Users\\1\\source\\repos\\PRACTA\\practa\\userwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\userwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|C:\\Users\\1\\source\\repos\\PRACTA\\practa\\adminwindow1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\adminwindow1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|C:\\Users\\1\\source\\repos\\PRACTA\\practa\\adminwindow1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\adminwindow1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|C:\\Users\\1\\source\\repos\\PRACTA\\practa\\fod.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\fod.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|C:\\Users\\1\\source\\repos\\PRACTA\\practa\\zoomagazindataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\zoomagazindataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|C:\\Users\\1\\source\\repos\\PRACTA\\practa\\fod.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\fod.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|C:\\Users\\1\\source\\repos\\PRACTA\\practa\\foduser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\foduser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|C:\\Users\\1\\source\\repos\\PRACTA\\practa\\foduser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\foduser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|c:\\users\\1\\source\\repos\\practa\\practa\\employees.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\employees.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|C:\\Users\\1\\source\\repos\\PRACTA\\practa\\employees.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\employees.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|C:\\Users\\1\\source\\repos\\PRACTA\\practa\\rolesss.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\rolesss.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|C:\\Users\\1\\source\\repos\\PRACTA\\practa\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|C:\\Users\\1\\source\\repos\\PRACTA\\practa\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|C:\\Users\\1\\source\\repos\\PRACTA\\practa\\toysss.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\toysss.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|C:\\Users\\1\\source\\repos\\PRACTA\\practa\\toysss.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\toysss.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|C:\\Users\\1\\source\\repos\\PRACTA\\practa\\tools2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\tools2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|C:\\Users\\1\\source\\repos\\PRACTA\\practa\\reviewsss.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\reviewsss.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|C:\\Users\\1\\source\\repos\\PRACTA\\practa\\ordersss.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\ordersss.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|C:\\Users\\1\\source\\repos\\PRACTA\\practa\\food_categoriesss.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\food_categoriesss.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|C:\\Users\\1\\source\\repos\\PRACTA\\practa\\food_categoriesss.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\food_categoriesss.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|C:\\Users\\1\\source\\repos\\PRACTA\\practa\\customer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\customer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|C:\\Users\\1\\source\\repos\\PRACTA\\practa\\collarsss.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\collarsss.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|C:\\Users\\1\\source\\repos\\PRACTA\\practa\\collarsss.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\collarsss.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|C:\\Users\\1\\source\\repos\\PRACTA\\practa\\aquariumsss.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\aquariumsss.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|C:\\Users\\1\\source\\repos\\PRACTA\\practa\\animalsuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\animalsuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|C:\\Users\\1\\source\\repos\\PRACTA\\practa\\animals_categoriesss.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\animals_categoriesss.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|C:\\Users\\1\\source\\repos\\PRACTA\\practa\\animals.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\animals.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|C:\\Users\\1\\source\\repos\\PRACTA\\practa\\animals.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\animals.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|C:\\Users\\1\\source\\repos\\PRACTA\\practa\\tools1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\tools1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|C:\\Users\\1\\source\\repos\\PRACTA\\practa\\rolesss.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\rolesss.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|C:\\Users\\1\\source\\repos\\PRACTA\\practa\\reviewsss.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\reviewsss.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|C:\\Users\\1\\source\\repos\\PRACTA\\practa\\customer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\customer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|C:\\Users\\1\\source\\repos\\PRACTA\\practa\\animals_categoriesss.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\animals_categoriesss.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|C:\\Users\\1\\source\\repos\\PRACTA\\practa\\collarsssuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\collarsssuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|C:\\Users\\1\\source\\repos\\PRACTA\\practa\\aquariumsssuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\aquariumsssuser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|C:\\Users\\1\\source\\repos\\PRACTA\\practa\\aquariumsss.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\aquariumsss.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|C:\\Users\\1\\source\\repos\\PRACTA\\practa\\ordersss.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\ordersss.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|C:\\Users\\1\\source\\repos\\PRACTA\\practa\\zoomagazindataset1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\zoomagazindataset1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|C:\\Users\\1\\source\\repos\\PRACTA\\practa\\collarsssuser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\collarsssuser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|C:\\Users\\1\\source\\repos\\PRACTA\\practa\\aquariumsssuser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\aquariumsssuser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|C:\\Users\\1\\source\\repos\\PRACTA\\practa\\animalsuser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AEE0D1B-3CCA-407C-9BD4-2E5801A160E8}|PRACTA\\PRACTA.csproj|solutionrelative:practa\\animalsuser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "fod.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\fod.xaml",
+              "RelativeDocumentMoniker": "PRACTA\\fod.xaml",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\fod.xaml",
+              "RelativeToolTip": "PRACTA\\fod.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-08T22:01:27.582Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ordersss.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\ordersss.xaml",
+              "RelativeDocumentMoniker": "PRACTA\\ordersss.xaml",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\ordersss.xaml",
+              "RelativeToolTip": "PRACTA\\ordersss.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-08T22:46:20.33Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "aquariumsss.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\aquariumsss.xaml",
+              "RelativeDocumentMoniker": "PRACTA\\aquariumsss.xaml",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\aquariumsss.xaml",
+              "RelativeToolTip": "PRACTA\\aquariumsss.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-08T22:02:38.997Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReviewsssUSER.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\ReviewsssUSER.xaml",
+              "RelativeDocumentMoniker": "PRACTA\\ReviewsssUSER.xaml",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\ReviewsssUSER.xaml",
+              "RelativeToolTip": "PRACTA\\ReviewsssUSER.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-08T22:08:53.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReviewsssUSER.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\ReviewsssUSER.xaml.cs",
+              "RelativeDocumentMoniker": "PRACTA\\ReviewsssUSER.xaml.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\ReviewsssUSER.xaml.cs",
+              "RelativeToolTip": "PRACTA\\ReviewsssUSER.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAADwvyUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T22:09:06.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "toysssUSER.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\toysssUSER.xaml.cs",
+              "RelativeDocumentMoniker": "PRACTA\\toysssUSER.xaml.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\toysssUSER.xaml.cs",
+              "RelativeToolTip": "PRACTA\\toysssUSER.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T22:06:20.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "toysssUSER.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\toysssUSER.xaml",
+              "RelativeDocumentMoniker": "PRACTA\\toysssUSER.xaml",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\toysssUSER.xaml",
+              "RelativeToolTip": "PRACTA\\toysssUSER.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-08T22:47:57.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\UserWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PRACTA\\UserWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\UserWindow.xaml.cs",
+              "RelativeToolTip": "PRACTA\\UserWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T21:56:32.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\UserWindow.xaml",
+              "RelativeDocumentMoniker": "PRACTA\\UserWindow.xaml",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\UserWindow.xaml",
+              "RelativeToolTip": "PRACTA\\UserWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-08T21:48:53.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminWindow1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\AdminWindow1.xaml.cs",
+              "RelativeDocumentMoniker": "PRACTA\\AdminWindow1.xaml.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\AdminWindow1.xaml.cs",
+              "RelativeToolTip": "PRACTA\\AdminWindow1.xaml.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAIAxwIEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T22:22:43.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminWindow1.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\AdminWindow1.xaml",
+              "RelativeDocumentMoniker": "PRACTA\\AdminWindow1.xaml",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\AdminWindow1.xaml",
+              "RelativeToolTip": "PRACTA\\AdminWindow1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-08T22:22:26.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Reviewsss.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\Reviewsss.xaml",
+              "RelativeDocumentMoniker": "PRACTA\\Reviewsss.xaml",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\Reviewsss.xaml",
+              "RelativeToolTip": "PRACTA\\Reviewsss.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-08T22:03:15.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "aquariumsss.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\aquariumsss.xaml.cs",
+              "RelativeDocumentMoniker": "PRACTA\\aquariumsss.xaml.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\aquariumsss.xaml.cs",
+              "RelativeToolTip": "PRACTA\\aquariumsss.xaml.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAIAwwEcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T22:08:24.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ordersss.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\ordersss.xaml.cs",
+              "RelativeDocumentMoniker": "PRACTA\\ordersss.xaml.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\ordersss.xaml.cs",
+              "RelativeToolTip": "PRACTA\\ordersss.xaml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAApwEAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T23:19:37.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "aquariumsssUSER.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\aquariumsssUSER.xaml.cs",
+              "RelativeDocumentMoniker": "PRACTA\\aquariumsssUSER.xaml.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\aquariumsssUSER.xaml.cs",
+              "RelativeToolTip": "PRACTA\\aquariumsssUSER.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAvwCkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T22:06:11.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "fod.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\fod.xaml.cs",
+              "RelativeDocumentMoniker": "PRACTA\\fod.xaml.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\fod.xaml.cs",
+              "RelativeToolTip": "PRACTA\\fod.xaml.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAlwDMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T22:08:02.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ZooMagazinDataSet1.xsd",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\ZooMagazinDataSet1.xsd",
+              "RelativeDocumentMoniker": "PRACTA\\ZooMagazinDataSet1.xsd",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\ZooMagazinDataSet1.xsd",
+              "RelativeToolTip": "PRACTA\\ZooMagazinDataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-04-09T13:31:41.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "fodUSER.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\fodUSER.xaml.cs",
+              "RelativeDocumentMoniker": "PRACTA\\fodUSER.xaml.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\fodUSER.xaml.cs",
+              "RelativeToolTip": "PRACTA\\fodUSER.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T22:05:55.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "fodUSER.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\fodUSER.xaml",
+              "RelativeDocumentMoniker": "PRACTA\\fodUSER.xaml",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\fodUSER.xaml",
+              "RelativeToolTip": "PRACTA\\fodUSER.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-08T22:45:18.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Employees.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\Employees.xaml.cs",
+              "RelativeDocumentMoniker": "PRACTA\\Employees.xaml.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\Employees.xaml.cs",
+              "RelativeToolTip": "PRACTA\\Employees.xaml.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAhwCUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T22:59:16.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Employees.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\Employees.xaml",
+              "RelativeDocumentMoniker": "PRACTA\\Employees.xaml",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\Employees.xaml",
+              "RelativeToolTip": "PRACTA\\Employees.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-08T22:44:35.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Rolesss.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\Rolesss.xaml",
+              "RelativeDocumentMoniker": "PRACTA\\Rolesss.xaml",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\Rolesss.xaml",
+              "RelativeToolTip": "PRACTA\\Rolesss.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-08T22:47:19.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PRACTA\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PRACTA\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T22:25:51.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PRACTA\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\MainWindow.xaml",
+              "RelativeToolTip": "PRACTA\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-08T22:25:49.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "customer.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\customer.xaml.cs",
+              "RelativeDocumentMoniker": "PRACTA\\customer.xaml.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\customer.xaml.cs",
+              "RelativeToolTip": "PRACTA\\customer.xaml.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAlwEcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T23:01:42.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Animals_Categoriesss.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\Animals_Categoriesss.xaml.cs",
+              "RelativeDocumentMoniker": "PRACTA\\Animals_Categoriesss.xaml.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\Animals_Categoriesss.xaml.cs",
+              "RelativeToolTip": "PRACTA\\Animals_Categoriesss.xaml.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAlwEMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T23:05:51.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "animalsUSER.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\animalsUSER.xaml.cs",
+              "RelativeDocumentMoniker": "PRACTA\\animalsUSER.xaml.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\animalsUSER.xaml.cs",
+              "RelativeToolTip": "PRACTA\\animalsUSER.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAvwCcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T23:16:27.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "collarsssUSER.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\collarsssUSER.xaml.cs",
+              "RelativeDocumentMoniker": "PRACTA\\collarsssUSER.xaml.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\collarsssUSER.xaml.cs",
+              "RelativeToolTip": "PRACTA\\collarsssUSER.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwCQAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T22:06:05.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "toysss.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\toysss.xaml.cs",
+              "RelativeDocumentMoniker": "PRACTA\\toysss.xaml.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\toysss.xaml.cs",
+              "RelativeToolTip": "PRACTA\\toysss.xaml.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAawLMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T22:08:39.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "toysss.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\toysss.xaml",
+              "RelativeDocumentMoniker": "PRACTA\\toysss.xaml",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\toysss.xaml",
+              "RelativeToolTip": "PRACTA\\toysss.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-08T22:02:59.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Tools2.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\Tools2.xaml",
+              "RelativeDocumentMoniker": "PRACTA\\Tools2.xaml",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\Tools2.xaml",
+              "RelativeToolTip": "PRACTA\\Tools2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-08T22:47:34.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Food_Categoriesss.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\Food_Categoriesss.xaml.cs",
+              "RelativeDocumentMoniker": "PRACTA\\Food_Categoriesss.xaml.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\Food_Categoriesss.xaml.cs",
+              "RelativeToolTip": "PRACTA\\Food_Categoriesss.xaml.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAlwEUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T23:05:32.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Food_Categoriesss.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\Food_Categoriesss.xaml",
+              "RelativeDocumentMoniker": "PRACTA\\Food_Categoriesss.xaml",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\Food_Categoriesss.xaml",
+              "RelativeToolTip": "PRACTA\\Food_Categoriesss.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-08T22:46:06.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "customer.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\customer.xaml",
+              "RelativeDocumentMoniker": "PRACTA\\customer.xaml",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\customer.xaml",
+              "RelativeToolTip": "PRACTA\\customer.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-08T22:44:18.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "collarsss.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\collarsss.xaml.cs",
+              "RelativeDocumentMoniker": "PRACTA\\collarsss.xaml.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\collarsss.xaml.cs",
+              "RelativeToolTip": "PRACTA\\collarsss.xaml.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAGMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T22:08:13.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "collarsss.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\collarsss.xaml",
+              "RelativeDocumentMoniker": "PRACTA\\collarsss.xaml",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\collarsss.xaml",
+              "RelativeToolTip": "PRACTA\\collarsss.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-08T22:02:20.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "animalsUSER.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\animalsUSER.xaml",
+              "RelativeDocumentMoniker": "PRACTA\\animalsUSER.xaml",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\animalsUSER.xaml",
+              "RelativeToolTip": "PRACTA\\animalsUSER.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-08T21:58:30.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Animals_Categoriesss.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\Animals_Categoriesss.xaml",
+              "RelativeDocumentMoniker": "PRACTA\\Animals_Categoriesss.xaml",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\Animals_Categoriesss.xaml",
+              "RelativeToolTip": "PRACTA\\Animals_Categoriesss.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-08T22:43:01.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "animals.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\animals.xaml",
+              "RelativeDocumentMoniker": "PRACTA\\animals.xaml",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\animals.xaml",
+              "RelativeToolTip": "PRACTA\\animals.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-08T22:41:08.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "animals.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\animals.xaml.cs",
+              "RelativeDocumentMoniker": "PRACTA\\animals.xaml.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\animals.xaml.cs",
+              "RelativeToolTip": "PRACTA\\animals.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T22:56:19.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Tools1.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\Tools1.xaml",
+              "RelativeDocumentMoniker": "PRACTA\\Tools1.xaml",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\Tools1.xaml",
+              "RelativeToolTip": "PRACTA\\Tools1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-08T22:47:31.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Rolesss.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\Rolesss.xaml.cs",
+              "RelativeDocumentMoniker": "PRACTA\\Rolesss.xaml.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\Rolesss.xaml.cs",
+              "RelativeToolTip": "PRACTA\\Rolesss.xaml.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAlwEQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T23:05:40.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Reviewsss.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\Reviewsss.xaml.cs",
+              "RelativeDocumentMoniker": "PRACTA\\Reviewsss.xaml.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\Reviewsss.xaml.cs",
+              "RelativeToolTip": "PRACTA\\Reviewsss.xaml.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAlwEwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T22:10:12.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ZooMagazinDataSet1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\ZooMagazinDataSet1.Designer.cs",
+              "RelativeDocumentMoniker": "PRACTA\\ZooMagazinDataSet1.Designer.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\ZooMagazinDataSet1.Designer.cs",
+              "RelativeToolTip": "PRACTA\\ZooMagazinDataSet1.Designer.cs",
+              "ViewState": "AQIAACsqAAAAAAAAAAAvwD8qAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T13:34:05.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "collarsssUSER.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\collarsssUSER.xaml",
+              "RelativeDocumentMoniker": "PRACTA\\collarsssUSER.xaml",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\collarsssUSER.xaml",
+              "RelativeToolTip": "PRACTA\\collarsssUSER.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-08T21:59:44.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "aquariumsssUSER.xaml",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\aquariumsssUSER.xaml",
+              "RelativeDocumentMoniker": "PRACTA\\aquariumsssUSER.xaml",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\PRACTA\\PRACTA\\aquariumsssUSER.xaml",
+              "RelativeToolTip": "PRACTA\\aquariumsssUSER.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-08T21:59:32.395Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
